@@ -1,6 +1,4 @@
 {
-  "api_endpoints": [
-    "https://31.207.5.126:9443/api"
-  ],
+  "api_endpoints": ["https://zondalab.store/api"],
   "updated_at": "2026-07-25"
 }

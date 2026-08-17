@@ -12,6 +12,18 @@
       "cta": "Подписки уже скоро",
       "action": "premium",
       "order": 0
+    },
+    {
+      "id": "plexu",
+      "enabled": true,
+      "icon": "📦",
+      "title": "Plexu — Доска объявлений",
+      "badge": null,
+      "badgeGradient": null,
+      "description": "Бесплатные объявления: товары, работа, услуги, авто",
+      "cta": "Открыть",
+      "action": "url:https://plexu.ru",
+      "order": 1
     }
   ]
 }

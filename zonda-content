@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "cards": [
+    {
+      "id": "premium",
+      "enabled": true,
+      "icon": "👑",
+      "title": "Премиум",
+      "badge": "Скоро",
+      "badgeGradient": ["#9C27B0", "#E91E63"],
+      "description": "Безлимит · Без рекламы · Все серверы",
+      "cta": "Подписки уже скоро",
+      "action": "premium",
+      "order": 0
+    }
+  ]
+}
